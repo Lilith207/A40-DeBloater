@@ -1,1 +1,2 @@
-### This is the module template, you can use it and easily make your own DeBloater!
+### This is a debloater for the samsung A40
+This module gets rid of the following apps / packages:
