@@ -1,5 +1,1 @@
-# Add the Bloat apps package id's here:
-
-# EXAMPLE (YOU CAN REMOVE THESE 2):
-# com.android.vending
-# com.android.chrome
+com.samsung.android.scloud
